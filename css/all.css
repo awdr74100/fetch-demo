@@ -4,5 +4,9 @@ body {
 }
 
 h1 {
-  color: black;
+  color: rgb(136, 41, 41);
+}
+
+h2{
+  color: azure;
 }
